@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpServer", "TcpServer\TcpServer.csproj", "{B57CBD9A-FEDF-4B72-8A18-631F9EA39E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClient", "TcpClient\TcpClient.csproj", "{06C2EB32-25B1-4CA6-89B1-129415B1448E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{C3FA9757-E51B-4D79-B4C9-85C4E9EDEA82}"
+	ProjectSection(SolutionItems) = preProject
+		Todo.txt = Todo.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57CBD9A-FEDF-4B72-8A18-631F9EA39E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57CBD9A-FEDF-4B72-8A18-631F9EA39E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57CBD9A-FEDF-4B72-8A18-631F9EA39E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57CBD9A-FEDF-4B72-8A18-631F9EA39E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C2EB32-25B1-4CA6-89B1-129415B1448E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C2EB32-25B1-4CA6-89B1-129415B1448E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C2EB32-25B1-4CA6-89B1-129415B1448E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C2EB32-25B1-4CA6-89B1-129415B1448E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A526E05B-080B-4083-BBEC-4F907DC2F1BA}
+	EndGlobalSection
+EndGlobal
